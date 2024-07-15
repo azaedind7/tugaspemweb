@@ -1,0 +1,1252 @@
+.detail-page .ic-cart {
+  position: absolute;
+  top: 9px;
+  right: 0px;
+  width: 48px;
+  height: 48px;
+}
+.detail-page .bikestore-1 {
+  margin: 15px 17px 16px 0;
+  display: inline-block;
+  width: 167px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 28px;
+  color: #171938;
+}
+.detail-page .bicycle-logo-1 {
+  background: url('../assets/images/bicycle_logo_1.png') 50% / cover no-repeat;
+  width: 113px;
+  height: 65px;
+}
+.detail-page .home-categories-products-hi-jojo {
+  margin: 3px 8.5px 0 0;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 18px;
+  color: #171938;
+}
+.home-categories-products-hi-jojo-sub1 {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.333;
+  color: #171938;
+}
+.detail-page .container-3 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 10px;
+  color: #171938;
+}
+.detail-page .container-2 {
+  border-radius: 7.5px;
+  background: #FCBB3A;
+  position: relative;
+  margin-bottom: 15px;
+  display: flex;
+  padding: 0 4.3px 0 5px;
+  box-sizing: border-box;
+}
+.detail-page .container {
+  margin: 16px 0 19px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.detail-page .container-9 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1182px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.detail-page .vector-2 {
+  background: #E4E4E4;
+  position: absolute;
+  right: 168px;
+  bottom: 15.5px;
+  width: 0px;
+  height: 33.5px;
+}
+.detail-page .avatar-1 {
+  background: url('../assets/images/avatar_1.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  right: -8px;
+  bottom: -34px;
+  width: 48px;
+  height: 73px;
+}
+.detail-page .mask-group {
+  border-radius: 16.5px;
+  position: absolute;
+  right: 126px;
+  bottom: 16px;
+  width: 33px;
+  height: 33px;
+}
+.detail-page .navbar {
+  position: relative;
+  margin: 0 114px 50px 114px;
+  display: flex;
+  padding-right: 30px;
+  width: 1212px;
+  box-sizing: border-box;
+}
+.detail-page .home-prod-uct-details {
+  margin: 0 110px 47px 110px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #000000;
+}
+.home-prod-uct-details-sub4 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.333;
+  color: #C4C4C4;
+}
+.home-prod-uct-details {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.333;
+  color: #171938;
+}
+.detail-page .bicycle-32 {
+  background: url('../assets/images/bicycle_31.png') 50% / cover no-repeat;
+  width: 754px;
+  height: 437px;
+}
+.detail-page .pic {
+  border-radius: 20px;
+  background: #DBE0E3;
+  position: relative;
+  margin: 0 136px 32.7px 0;
+  display: flex;
+  padding: 43px 31px 79px 32px;
+  width: 817px;
+  height: 559px;
+  box-sizing: border-box;
+}
+.detail-page .bicycle-433 {
+  background: url('../assets/images/bicycle_42.png') 50% / cover no-repeat;
+  width: 136.6px;
+  height: 79.5px;
+}
+.detail-page .pic-4 {
+  border-radius: 20px;
+  background: #BDC1C3;
+  position: relative;
+  margin: 0 0 64.3px 3px;
+  display: flex;
+  padding: 9.6px 0;
+  width: 184px;
+  height: 98.7px;
+  box-sizing: border-box;
+}
+.detail-page .bicycle-432 {
+  background: url('../assets/images/bicycle_42.png') 50% / cover no-repeat;
+  width: 136.6px;
+  height: 79.5px;
+}
+.detail-page .pic-3 {
+  border-radius: 20px;
+  background: #BDC1C3;
+  position: relative;
+  margin: 0 3px 64.3px 0;
+  display: flex;
+  padding: 9.6px 0;
+  width: 184px;
+  height: 98.7px;
+  box-sizing: border-box;
+}
+.detail-page .bicycle-431 {
+  background: url('../assets/images/bicycle_42.png') 50% / cover no-repeat;
+  width: 136.6px;
+  height: 79.5px;
+}
+.detail-page .pic-2 {
+  border-radius: 20px;
+  border: 2px solid #E98015;
+  background: #BDC1C3;
+  position: relative;
+  margin: 0 3px 68.3px 0;
+  display: flex;
+  padding: 9.6px 0;
+  width: 184px;
+  height: 98.7px;
+  box-sizing: border-box;
+}
+.detail-page .bicycle-43 {
+  background: url('../assets/images/bicycle_42.png') 50% / cover no-repeat;
+  width: 136.6px;
+  height: 79.5px;
+}
+.detail-page .pic-1 {
+  border-radius: 20px;
+  background: #BDC1C3;
+  position: relative;
+  margin-left: 3px;
+  display: flex;
+  padding: 9.6px 0;
+  width: 184px;
+  height: 98.7px;
+  box-sizing: border-box;
+}
+.detail-page .container-26 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 187px;
+  box-sizing: border-box;
+}
+.detail-page .container-25 {
+  margin: 0 100px 61.3px 100px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 1140px;
+  box-sizing: border-box;
+}
+.detail-page .about-the-bike {
+  margin-bottom: 10px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 20px;
+  color: #152C5B;
+}
+.detail-page .minimal-techno-is-aminimalist-subgenre-of-techno-music-it-is-characterized-by-astripped-down-aesthetic-that-exploits-the-use-of-repetition-and-understated-development-minimal-techno-is-thought-to-have-been-originally-developed-in-the-early-1990-sby-detroit-based-producers-robert-hood-and-daniel-bell {
+  margin: 0 7.1px 3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #B0B0B0;
+}
+.detail-page .such-trends-saw-the-demise-of-the-soul-infused-techno-that-typified-the-original-detroit-sound-robert-hood-has-noted-that-he-and-daniel-bell-both-realized-something-was-missing-from-techno-in-the-post-rave-era {
+  margin-bottom: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #B0B0B0;
+}
+.detail-page .design-is-aplan-or-specification-for-the-construction-of-an-object-or-system-or-for-the-implementation-of-an-activity-or-process-or-the-result-of-that-plan-or-specification-in-the-form-of-aprototype-product-or-process-the-national-agency-for-design-enabling-singapore-to-use-design-for-economic-growth-and-to-make-lives-better {
+  margin-right: 5.4px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #B0B0B0;
+}
+.detail-page .about {
+  margin: 27px 41.8px 78px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.detail-page .booking-bike {
+  margin: 0 0.3px 6px 0.3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 20px;
+  color: #152C5B;
+}
+.detail-page .rp-100000000 {
+  margin: 0 0 0.9px 0.3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 36px;
+  color: #1ABC9C;
+}
+.detail-page .color {
+  margin-bottom: 1.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #152C5B;
+}
+.detail-page .black {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #152C5B;
+}
+.detail-page .container-14 {
+  border-radius: 4px;
+  background: #F5F6F8;
+  position: relative;
+  margin-left: 0px;
+  display: flex;
+  padding: 7.3px 0 2.3px 0.8px;
+  width: 259.1px;
+  box-sizing: border-box;
+}
+.detail-page .container-10 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.detail-page .rectangle-8 {
+  border-radius: 4px;
+  background: #1ABC9C;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 36.4px;
+  height: 36.7px;
+}
+.detail-page .container {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.detail-page .btn-plus {
+  border-radius: 4px;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  padding: 13.6px 6.8px 0 16.6px;
+  box-sizing: border-box;
+}
+.detail-page .input {
+  border-radius: 4px;
+  position: relative;
+  margin: 0 2.9px 95px 0;
+  display: flex;
+  padding-bottom: 12.9px;
+  box-sizing: border-box;
+}
+.detail-page .continue-to-book {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.7;
+  color: #FFFFFF;
+}
+.detail-page .btn-primary {
+  box-shadow: 0px 8px 15px 0px rgba(50, 82, 223, 0.3);
+  border-radius: 4px;
+  background: #3252DF;
+  position: relative;
+  margin-right: 2.9px;
+  display: flex;
+  padding: 7.3px 0 2.4px 1.2px;
+  width: 259.1px;
+  box-sizing: border-box;
+}
+.detail-page .container-16 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.detail-page .size {
+  margin-bottom: 1.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #152C5B;
+}
+.detail-page .m {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #152C5B;
+}
+.detail-page .container-23 {
+  border-radius: 4px;
+  background: #F5F6F8;
+  position: relative;
+  margin-left: 0px;
+  display: flex;
+  padding: 7.3px 0 2.3px 0.8px;
+  width: 259.1px;
+  box-sizing: border-box;
+}
+.detail-page .container-15 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.detail-page .rectangle-81 {
+  border-radius: 4px;
+  background: #E74C3C;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 36.4px;
+  height: 36.7px;
+}
+.detail-page .container-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.detail-page .btn-minus {
+  border-radius: 4px;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  display: flex;
+  padding: 4.1px 10.4px 0 12.1px;
+  box-sizing: border-box;
+}
+.detail-page .rectangle-82 {
+  border-radius: 4px;
+  background: #1ABC9C;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 36.4px;
+  height: 36.7px;
+}
+.detail-page .container-2 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.detail-page .btn-plus-1 {
+  border-radius: 4px;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  padding: 4.1px 10.5px 0 10.9px;
+  box-sizing: border-box;
+}
+.detail-page .input-1 {
+  border-radius: 4px;
+  position: absolute;
+  left: 50%;
+  bottom: 161.4px;
+  translate: -50% 0;
+  display: flex;
+  padding-bottom: 3.4px;
+  box-sizing: border-box;
+}
+.detail-page .box {
+  border-radius: 15px;
+  border: 1px solid #E5E5E5;
+  position: relative;
+  display: flex;
+  padding: 50px 0 93.3px 3.7px;
+  width: 394.3px;
+  box-sizing: border-box;
+}
+.detail-page .container-4 {
+  margin: 0 97.7px 52px 100px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.detail-page .popular-products-1 {
+  margin-bottom: 5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #171938;
+}
+.detail-page .rectangle-72 {
+  background: #FCBB3A;
+  margin-bottom: 13px;
+  align-self: flex-start;
+  width: 80px;
+  height: 2px;
+}
+.detail-page .bicycle-31 {
+  background: url('../assets/images/bicycle_31.png') 50% / cover no-repeat;
+  width: 240px;
+  height: 139px;
+}
+.detail-page .container-6 {
+  border-radius: 8px;
+  background: #F6FAFD;
+  position: relative;
+  margin-bottom: 25px;
+  display: flex;
+  padding: 24px 24px 28px 23px;
+  width: 287px;
+  height: 191px;
+  box-sizing: border-box;
+}
+.detail-page .spech-stealth {
+  margin: 0 1px 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #171938;
+}
+.detail-page .container-4 {
+  margin-left: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #E98015;
+}
+.detail-page .item-1 {
+  box-shadow: 5px 6px 13px -3px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 37px 4px 37px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 22px;
+  width: 287px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.detail-page .rectangle-51 {
+  border-radius: 8px;
+  background: #F6FAFD;
+  margin-bottom: 25.9px;
+  width: 297px;
+  height: 239.1px;
+}
+.detail-page .spectral-mountain {
+  margin: 0 1px 15.9px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #171938;
+}
+.detail-page .container-5 {
+  margin-left: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #E98015;
+}
+.detail-page .container-20 {
+  box-shadow: 1px 5px 15px -4px #171938;
+  border-radius: 8px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 43.1px;
+  width: 297px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.detail-page .bicycle-41 {
+  background: url('../assets/images/bicycle_42.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 26px;
+  right: 0px;
+  height: 188px;
+}
+.detail-page .item-2 {
+  position: relative;
+  margin-right: 21px;
+  display: flex;
+  padding: 0 5px 0 21px;
+  width: 323px;
+  box-sizing: border-box;
+}
+.detail-page .helmet-11 {
+  background: url('../assets/images/helmet_11.png') 50% / cover no-repeat;
+  width: 137px;
+  height: 122px;
+}
+.detail-page .container-8 {
+  border-radius: 8px;
+  background: #F6FAFD;
+  position: relative;
+  margin-bottom: 25px;
+  display: flex;
+  padding: 35px 0 34px 0;
+  width: 287px;
+  height: 191px;
+  box-sizing: border-box;
+}
+.detail-page .lixada-ultra {
+  margin: 0 1px 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #171938;
+}
+.detail-page .container-6 {
+  margin-left: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #E98015;
+}
+.detail-page .item-3 {
+  box-shadow: 5px 6px 13px -3px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 37px 31px 37px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 22px;
+  width: 287px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.detail-page .bicycle-51 {
+  background: url('../assets/images/bicycle_51.png') 50% / cover no-repeat;
+  width: 255px;
+  height: 148px;
+}
+.detail-page .container-22 {
+  border-radius: 8px;
+  background: #F6FAFD;
+  position: relative;
+  margin-bottom: 25px;
+  display: flex;
+  padding: 22px 16px 21px 16px;
+  width: 287px;
+  height: 191px;
+  box-sizing: border-box;
+}
+.detail-page .noris-nexx-30 {
+  margin: 0 1px 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #171938;
+}
+.detail-page .container-7 {
+  margin-left: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #E98015;
+}
+.detail-page .item-4 {
+  box-shadow: 5px 6px 13px -3px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 37px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 22px;
+  width: 287px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.detail-page .container-19 {
+  margin-bottom: 23px;
+  display: flex;
+  flex-direction: row;
+  width: 1240px;
+  box-sizing: border-box;
+}
+.detail-page .product-11 {
+  background: url('../assets/images/product_11.png') 50% / cover no-repeat;
+  width: 203px;
+  height: 180px;
+}
+.detail-page .container-21 {
+  border-radius: 8px;
+  background: #F6FAFD;
+  position: relative;
+  margin-bottom: 22px;
+  display: flex;
+  padding: 6px 0 5px 0;
+  width: 287px;
+  height: 191px;
+  box-sizing: border-box;
+}
+.detail-page .xzone-eron {
+  margin: 0 1px 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #171938;
+}
+.detail-page .container-8 {
+  margin-left: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #E98015;
+}
+.detail-page .item-5 {
+  box-shadow: 5px 6px 13px -3px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 2px 29px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 3px 0 22px 0;
+  width: 287px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.detail-page .schwalbe-700-x-35-c {
+  margin-bottom: 12px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #171938;
+}
+.detail-page .container-9 {
+  margin-left: 2px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #E98015;
+}
+.detail-page .container-7 {
+  box-shadow: 5px 6px 13px -3px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 216px 0 22px 0;
+  width: 287px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.detail-page .product-21 {
+  background: url('../assets/images/product_21.png') 50% / cover no-repeat;
+  width: 223px;
+  height: 130px;
+}
+.detail-page .container-5 {
+  border-radius: 8px;
+  background: #F6FAFD;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 2px;
+  display: flex;
+  padding: 0 24px;
+  height: 191px;
+  box-sizing: border-box;
+}
+.detail-page .item-6 {
+  position: relative;
+  margin: 2px 30px 0 0;
+  display: flex;
+  padding-left: 2px;
+  width: 289px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.detail-page .xzone-jersey {
+  margin-bottom: 12px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #171938;
+}
+.detail-page .container-10 {
+  margin-left: 2px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #E98015;
+}
+.detail-page .container-1 {
+  box-shadow: 5px 6px 13px -3px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 216px 0 22px 0;
+  width: 287px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.detail-page .product-31 {
+  background: url('../assets/images/product_31.png') 50% / cover no-repeat;
+  width: 139px;
+  height: 142px;
+}
+.detail-page .container-18 {
+  border-radius: 8px;
+  background: #F6FAFD;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  display: flex;
+  height: 191px;
+}
+.detail-page .item-7 {
+  position: relative;
+  margin: 1px 31px 0 0;
+  display: flex;
+  padding-top: 1px;
+  width: 287px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.detail-page .polygon-pro-long {
+  margin-bottom: 12px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #171938;
+}
+.detail-page .container-11 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #E98015;
+}
+.detail-page .container-13 {
+  box-shadow: 5px 6px 13px -3px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 216px 0 22px 0;
+  width: 287px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.detail-page .product-41 {
+  background: url('../assets/images/product_41.png') 50% / cover no-repeat;
+  width: 109px;
+  height: 150px;
+}
+.detail-page .container-17 {
+  border-radius: 8px;
+  background: #F6FAFD;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  display: flex;
+  padding-bottom: 20px;
+  height: 191px;
+  box-sizing: border-box;
+}
+.detail-page .item-8 {
+  position: relative;
+  display: flex;
+  padding-top: 2px;
+  width: 287px;
+  box-sizing: border-box;
+}
+.detail-page .container-11 {
+  display: flex;
+  flex-direction: row;
+  width: 1240px;
+  box-sizing: border-box;
+}
+.detail-page .popular-products {
+  background: rgba(23, 25, 56, 0.06);
+  position: relative;
+  margin-bottom: 137px;
+  display: flex;
+  flex-direction: column;
+  padding: 50px 100px 93px 100px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.detail-page .rectangle-2 {
+  border-radius: 15px;
+  border: 2px solid #E5E5E5;
+  width: 356.1px;
+  height: 486.8px;
+}
+.detail-page .frame {
+  border-radius: 15px;
+  position: relative;
+  display: flex;
+  width: 356.1px;
+  height: 486.8px;
+  box-sizing: border-box;
+}
+.detail-page .review-2 {
+  background: url('../assets/images/review_2.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: -20px;
+  bottom: -36px;
+  width: 405px;
+  height: 538px;
+}
+.detail-page .picture {
+  border-radius: 100px 15px 15px 15px;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 366px;
+  height: 501.9px;
+}
+.detail-page .foto-keluarga {
+  position: relative;
+  margin-right: 57.8px;
+  width: 405px;
+  height: 541px;
+  box-sizing: border-box;
+}
+.detail-page .star-1 {
+  border-radius: 1px;
+  width: 34.5px;
+  height: 34.5px;
+}
+.detail-page .ic-star {
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.detail-page .star-11 {
+  border-radius: 1px;
+  width: 34.5px;
+  height: 34.5px;
+}
+.detail-page .ic-star-1 {
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.detail-page .star-12 {
+  border-radius: 1px;
+  width: 34.5px;
+  height: 34.5px;
+}
+.detail-page .ic-star-2 {
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.detail-page .star-13 {
+  border-radius: 1px;
+  width: 34.5px;
+  height: 34.5px;
+}
+.detail-page .ic-star-3 {
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.detail-page .star-14 {
+  border-radius: 1px;
+  width: 34.5px;
+  height: 34.5px;
+}
+.detail-page .ic-star-4 {
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.detail-page .group-1 {
+  margin-bottom: 8.8px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  column-gap: 1.5px;
+  width: 180px;
+  box-sizing: border-box;
+}
+.detail-page .bikestore-goes-to-campus-xuir {
+  margin: 0 0 8px 3.3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 32px;
+  color: #152C5B;
+}
+.detail-page .johan-programmer {
+  margin: 0 2.3px 50px 2.3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 300;
+  font-size: 18px;
+  color: #B0B0B0;
+}
+.detail-page .read-their-story {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.7;
+  color: #030303;
+}
+.detail-page .btn-primary-1 {
+  box-shadow: 0px 8px 15px 0px rgba(50, 82, 223, 0.3);
+  border-radius: 4px;
+  background: #FCBB3A;
+  position: relative;
+  margin: 0 3.3px;
+  display: flex;
+  align-self: flex-start;
+  padding: 9px 0 10px 1px;
+  width: 210px;
+  box-sizing: border-box;
+}
+.detail-page .group-2 {
+  margin: 171.8px 0 95px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.detail-page .testimonial {
+  margin: 0 85px 163px 85px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.detail-page .youtubr-1 {
+  background: url('../assets/images/youtubr_1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 269px;
+  top: 90px;
+  width: 55px;
+  height: 45px;
+}
+.detail-page .rectangle-11 {
+  background: #E5E5E5;
+  width: 1440px;
+  height: 0.9px;
+}
+.detail-page .divider {
+  margin-bottom: 38.7px;
+  display: flex;
+  width: 1440px;
+  height: 0.9px;
+  box-sizing: border-box;
+}
+.detail-page .bikestore {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 36px;
+  color: #000000;
+}
+.detail-page .fb-1 {
+  background: url('../assets/images/fb_1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 67px;
+  bottom: 0px;
+  width: 51px;
+  height: 51.3px;
+}
+.detail-page .ig-1 {
+  background: url('../assets/images/ig_1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  bottom: 6.3px;
+  width: 54px;
+  height: 38.7px;
+}
+.detail-page .container-12 {
+  position: relative;
+  margin-bottom: 22.5px;
+  display: flex;
+  padding-left: 7px;
+  height: 98.1px;
+  box-sizing: border-box;
+}
+.detail-page .address {
+  margin-bottom: 15.3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 18px;
+  color: #152C5B;
+}
+.detail-page .jl-kaharuddin-nasution-no-01-kecamatan-marpoyan-damai-pekanbaru-riau-2828208121234578 {
+  text-align: right;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 300;
+  font-size: 16px;
+  color: #B0B0B0;
+}
+.detail-page .group-5 {
+  margin-top: 6.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.detail-page .container-3 {
+  margin: 0 105px 0 131px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1204px;
+  box-sizing: border-box;
+}
+.detail-page .container-24 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.detail-page .navigation {
+  background: #F5F4F5;
+  position: relative;
+  display: flex;
+  padding-bottom: 118.8px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.detail-page .copyright-bikestore-all-rights-reserved {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.copyright-bikestore-all-rights-reserved-sub8 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.copyright-bikestore-all-rights-reserved-sub7 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.333;
+  color: #FCBB3A;
+}
+.copyright-bikestore-all-rights-reserved {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.detail-page .footer {
+  background: #171938;
+  position: relative;
+  display: flex;
+  padding: 32px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.detail-page {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding-top: 25px;
+  width: 1440px;
+  box-sizing: border-box;
+}

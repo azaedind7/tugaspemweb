@@ -1,0 +1,269 @@
+.booking-page-3 .bikestore {
+  margin: 0 11.9px 28px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 28px;
+  color: #171938;
+}
+.booking-page-3 .rectangle-18 {
+  background: #E5E5E5;
+  width: 1440px;
+  height: 1px;
+}
+.booking-page-3 .navbar {
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 61px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 28px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.booking-page-3 .group-12 {
+  margin: 0 0 44px 21px;
+  width: 275px;
+  height: 50px;
+}
+.booking-page-3 .order-finish {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 36px;
+  color: #152C5B;
+}
+.booking-page-3 .title {
+  margin: 0 0 84px 11px;
+  display: flex;
+  box-sizing: border-box;
+}
+.booking-page-3 .group-11 {
+  background: url('../assets/images/group_11.png') 50% / cover no-repeat;
+  margin-bottom: 44px;
+  width: 504px;
+  height: 460px;
+}
+.booking-page-3 .we-will-inform-you-via-email-once-the-transaction-has-been-accepted {
+  margin-bottom: 36px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 300;
+  font-size: 18px;
+  color: #B0B0B0;
+}
+.booking-page-3 .back-to-home {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.7;
+  color: #000000;
+}
+.booking-page-3 .btn-cancel {
+  box-shadow: 0px 8px 15px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  background: #FCBB3A;
+  position: relative;
+  display: flex;
+  padding: 9px 0 8px 0.6px;
+  width: 384px;
+  box-sizing: border-box;
+}
+.booking-page-3 .group-13 {
+  margin: 0 10px 256px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 504px;
+  box-sizing: border-box;
+}
+.booking-page-3 .fb-1 {
+  background: url('../assets/images/fb_1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 198px;
+  top: 96px;
+  width: 51px;
+  height: 57px;
+}
+.booking-page-3 .rectangle-11 {
+  background: #E5E5E5;
+  width: 1440px;
+  height: 1px;
+}
+.booking-page-3 .divider {
+  margin-bottom: 43px;
+  display: flex;
+  width: 1440px;
+  height: 1px;
+  box-sizing: border-box;
+}
+.booking-page-3 .bikestore-1 {
+  position: relative;
+  margin: 0 0.3px 2px 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 36px;
+  color: #000000;
+}
+.booking-page-3 .ig-1 {
+  background: url('../assets/images/ig_1.png') 50% / cover no-repeat;
+  margin: 3px 0 4px 0;
+  width: 54px;
+  height: 43px;
+}
+.booking-page-3 .youtubr-1 {
+  background: url('../assets/images/youtubr_1.png') 50% / cover no-repeat;
+  width: 55px;
+  height: 50px;
+}
+.booking-page-3 .container-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 193px;
+  box-sizing: border-box;
+}
+.booking-page-3 .container {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.booking-page-3 .address {
+  margin-bottom: 20px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 18px;
+  color: #152C5B;
+}
+.booking-page-3 .jl-kaharuddin-nasution-no-01-kecamatan-marpoyan-damai-pekanbaru-riau-2828208121234578 {
+  text-align: right;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 300;
+  font-size: 16px;
+  color: #B0B0B0;
+}
+.booking-page-3 .group-5 {
+  margin-top: 7px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.booking-page-3 .container-2 {
+  margin: 0 105px 49px 131px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1204px;
+  box-sizing: border-box;
+}
+.booking-page-3 .copyright-bikestore-all-rights-reserved {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.copyright-bikestore-all-rights-reserved-sub8 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.copyright-bikestore-all-rights-reserved-sub7 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.333;
+  color: #FCBB3A;
+}
+.copyright-bikestore-all-rights-reserved {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.copyright-bikestore-all-rights-reserved-1 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.booking-page-3 .copyright-bikestore-all-rights-reserved-1 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.copyright-bikestore-all-rights-reserved-1-sub8 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.copyright-bikestore-all-rights-reserved-1-sub7 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.333;
+  color: #FCBB3A;
+}
+.booking-page-3 .footer-1 {
+  background: #171938;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  padding: 32px 0;
+  height: 100%;
+  box-sizing: border-box;
+}
+.booking-page-3 .footer {
+  background: #171938;
+  position: relative;
+  display: flex;
+  padding: 32px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.booking-page-3 .container-3 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.booking-page-3 .navigation {
+  background: #F5F4F5;
+  position: relative;
+  display: flex;
+  padding-bottom: 3px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.booking-page-3 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,1269 @@
+.landing-page .bikestore-1 {
+  margin-right: 17px;
+  width: 167px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 28px;
+  color: #000000;
+}
+.landing-page .home-categories-products-sign-up-sign-in {
+  margin: 4px 0px 3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.landing-page .header {
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 70px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 43px 100.2px 43px 100px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.landing-page .this-is-your-world-ride-it {
+  margin: 0 0 4px 8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 62px;
+  color: #000000;
+}
+.landing-page .there-is-no-day-without-cycling {
+  margin-bottom: 79px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 28px;
+  color: #000000;
+}
+.landing-page .copy-of-bicycle-logo-11 {
+  background: url('../assets/images/copy_of_bicycle_logo_11.png') 50% / cover no-repeat;
+  margin-right: 8px;
+  width: 67px;
+  height: 39px;
+}
+.landing-page .order-your-bike {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.landing-page .button-cpa {
+  border-radius: 0 18px 18px 0;
+  background: #FFBD37;
+  position: relative;
+  margin-top: 1px;
+  display: flex;
+  padding: 7px 0.8px 7px 0;
+  width: 182px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .container-9 {
+  margin: 0 8px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 257px;
+  box-sizing: border-box;
+}
+.landing-page .banner-life {
+  margin: 0 139.8px 40px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.landing-page .rectangle-3 {
+  border-radius: 0 0 0 80px;
+  border: 2px solid #000000;
+  position: relative;
+  width: 499px;
+  height: 348px;
+}
+.landing-page .rectangle-4 {
+  border-radius: 0 0 0 80px;
+  background: #FFBD37;
+  position: absolute;
+  left: 13px;
+  right: 18px;
+  bottom: 16px;
+  height: 348px;
+}
+.landing-page .copy-of-robert-bye-tg-36-rv-ceqng-unsplash-1 {
+  border-radius: 0 0 0 80px;
+  background: url('../assets/images/copy_of_robert_bye_tg_36_rv_ceqng_unsplash_1.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 32px;
+  top: 0px;
+  right: 0px;
+  height: 348px;
+}
+.landing-page .banner-right {
+  position: relative;
+  display: flex;
+  padding: 42px 31px 0 0;
+  width: 530px;
+  height: 390px;
+  box-sizing: border-box;
+}
+.landing-page .container-6 {
+  margin: 0 99px 32px 92px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .trend-categories {
+  margin: 0 1px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.landing-page .line-1 {
+  background: #FFBD37;
+  margin: 0 1px 12px 1px;
+  align-self: flex-start;
+  width: 75px;
+  height: 0px;
+}
+.landing-page .categories-12 {
+  background: url('../assets/images/categories_12.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  right: -24px;
+  bottom: -58px;
+  width: 416px;
+  height: 556px;
+}
+.landing-page .mountain {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #171938;
+}
+.landing-page .container-24 {
+  border-radius: 0 20px 0 0;
+  background: #FCBB3A;
+  position: absolute;
+  left: 0px;
+  bottom: -2px;
+  display: flex;
+  padding: 14px 9.6px 12px 0;
+  width: 160px;
+  box-sizing: border-box;
+}
+.landing-page .categories-1 {
+  border-radius: 20px;
+  position: relative;
+  margin-right: 25px;
+  width: 393px;
+  box-sizing: border-box;
+}
+.landing-page .rectangle-131 {
+  border-radius: 0 20px 0 0;
+  background: #FCBB3A;
+  position: absolute;
+  left: -14px;
+  top: 414px;
+  width: 160px;
+  height: 48px;
+}
+.landing-page .road {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #171938;
+}
+.landing-page .categories-2 {
+  border-radius: 20px;
+  background: url('../assets/images/categories_22.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin-right: 32px;
+  display: flex;
+  box-sizing: border-box;
+}
+.landing-page .rectangle-13 {
+  border-radius: 0 20px 0 0;
+  background: #FCBB3A;
+  position: absolute;
+  left: -15px;
+  top: 168px;
+  width: 160px;
+  height: 48px;
+}
+.landing-page .urban {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #171938;
+}
+.landing-page .categories-3 {
+  border-radius: 20px;
+  background: url('../assets/images/categories_32.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 32px;
+  padding: 181px 36px 12px 36px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .rectangle-132 {
+  border-radius: 0 20px 0 0;
+  background: #FCBB3A;
+  position: absolute;
+  left: 0px;
+  top: 168px;
+  width: 160px;
+  height: 48px;
+}
+.landing-page .junior {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #171938;
+}
+.landing-page .categories-4 {
+  border-radius: 20px;
+  background: url('../assets/images/categories_41.jpeg') 50% / cover no-repeat;
+  position: relative;
+  padding: 181px 43px 12px 43px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .container-5 {
+  display: flex;
+  flex-direction: column;
+  width: 497px;
+  box-sizing: border-box;
+}
+.landing-page .container-20 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .categories {
+  margin: 0 107px 78px 100px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .popular-products-1 {
+  margin-bottom: 5.1px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #171938;
+}
+.landing-page .rectangle-7 {
+  background: #FCBB3A;
+  margin-bottom: 13.1px;
+  align-self: flex-start;
+  width: 80px;
+  height: 2px;
+}
+.landing-page .bicycle-31 {
+  background: url('../assets/images/bicycle_31.png') 50% / cover no-repeat;
+  width: 240px;
+  height: 139.7px;
+}
+.landing-page .container-4 {
+  border-radius: 8px;
+  background: #F6FAFD;
+  position: relative;
+  margin-bottom: 25.1px;
+  display: flex;
+  padding: 24.1px 24px 28.1px 23px;
+  width: 287px;
+  height: 192px;
+  box-sizing: border-box;
+}
+.landing-page .spech-stealth {
+  margin: 0 1px 12.2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #171938;
+}
+.landing-page .container-4 {
+  margin-left: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #E98015;
+}
+.landing-page .item-1 {
+  box-shadow: 5px 6px 13px -3px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 37.2px 4px 37.2px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 22.2px;
+  width: 287px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .rectangle-55 {
+  border-radius: 8px;
+  background: #F6FAFD;
+  margin-bottom: 26.1px;
+  width: 297px;
+  height: 240.3px;
+}
+.landing-page .spectral-mountain {
+  margin: 0 1px 16.1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #171938;
+}
+.landing-page .container-5 {
+  margin-left: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #E98015;
+}
+.landing-page .container-1 {
+  box-shadow: 1px 5px 15px -4px #171938;
+  border-radius: 8px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 43.4px;
+  width: 297px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .bicycle-41 {
+  background: url('../assets/images/bicycle_42.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 26.1px;
+  right: 0px;
+  height: 189px;
+}
+.landing-page .item-2 {
+  position: relative;
+  margin-right: 21px;
+  display: flex;
+  padding: 0 5px 0 21px;
+  width: 323px;
+  box-sizing: border-box;
+}
+.landing-page .helmet-11 {
+  background: url('../assets/images/helmet_11.png') 50% / cover no-repeat;
+  width: 137px;
+  height: 122.6px;
+}
+.landing-page .container-14 {
+  border-radius: 8px;
+  background: #F6FAFD;
+  position: relative;
+  margin-bottom: 25.1px;
+  display: flex;
+  padding: 35.2px 0 34.2px 0;
+  width: 287px;
+  height: 192px;
+  box-sizing: border-box;
+}
+.landing-page .lixada-ultra {
+  margin: 0 1px 12.2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #171938;
+}
+.landing-page .container-6 {
+  margin-left: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #E98015;
+}
+.landing-page .item-3 {
+  box-shadow: 5px 6px 13px -3px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 37.2px 31px 37.2px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 22.2px;
+  width: 287px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .bicycle-51 {
+  background: url('../assets/images/bicycle_51.png') 50% / cover no-repeat;
+  width: 255px;
+  height: 148.8px;
+}
+.landing-page .container-19 {
+  border-radius: 8px;
+  background: #F6FAFD;
+  position: relative;
+  margin-bottom: 25.1px;
+  display: flex;
+  padding: 22.1px 16px 21.1px 16px;
+  width: 287px;
+  height: 192px;
+  box-sizing: border-box;
+}
+.landing-page .noris-nexx-30 {
+  margin: 0 1px 12.2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #171938;
+}
+.landing-page .container-7 {
+  margin-left: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #E98015;
+}
+.landing-page .item-4 {
+  box-shadow: 5px 6px 13px -3px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 37.2px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 22.2px;
+  width: 287px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .container-25 {
+  margin-bottom: 23.1px;
+  display: flex;
+  flex-direction: row;
+  width: 1240px;
+  box-sizing: border-box;
+}
+.landing-page .product-11 {
+  background: url('../assets/images/product_11.png');
+  width: 191px;
+  height: 87px;
+}
+.landing-page .component-11 {
+  display: flex;
+  width: 287px;
+  height: 192px;
+  box-sizing: border-box;
+}
+.landing-page .container-11 {
+  border-radius: 8px;
+  background: #F6FAFD;
+  position: relative;
+  margin-bottom: 22.1px;
+  display: flex;
+  padding: 57.4px 12px 47.6px 0;
+  width: 287px;
+  height: 192px;
+  box-sizing: border-box;
+}
+.landing-page .xzone-eron-1 {
+  margin: 0 1px 12.2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #171938;
+}
+.landing-page .container-8 {
+  margin-left: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #E98015;
+}
+.landing-page .item-5 {
+  box-shadow: 5px 6px 13px -3px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 2px 29px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 3px 0 22.2px 0;
+  width: 287px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .schwalbe-700-x-35-c {
+  margin-bottom: 12.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #171938;
+}
+.landing-page .container-1 {
+  margin-left: 2px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #E98015;
+}
+.landing-page .container-3 {
+  box-shadow: 5px 6px 13px -3px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 217.1px 0 22.2px 0;
+  width: 287px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .product-21 {
+  background: url('../assets/images/product_21.png') 50% / cover no-repeat;
+  width: 223px;
+  height: 130.7px;
+}
+.landing-page .container-22 {
+  border-radius: 8px;
+  background: #F6FAFD;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 2px;
+  display: flex;
+  padding: 0 24px;
+  height: 192px;
+  box-sizing: border-box;
+}
+.landing-page .item-6 {
+  position: relative;
+  margin: 2px 30px 0 0;
+  display: flex;
+  padding-left: 2px;
+  width: 289px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .xzone-jersey {
+  margin-bottom: 12.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #171938;
+}
+.landing-page .container-2 {
+  margin-left: 2px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #E98015;
+}
+.landing-page .container-12 {
+  box-shadow: 5px 6px 13px -3px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 217.1px 0 22.2px 0;
+  width: 287px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .product-31 {
+  background: url('../assets/images/product_31.png') 50% / cover no-repeat;
+  width: 139px;
+  height: 142.7px;
+}
+.landing-page .container-2 {
+  border-radius: 8px;
+  background: #F6FAFD;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  display: flex;
+  height: 192px;
+}
+.landing-page .item-7 {
+  position: relative;
+  margin: 1px 31px 0px 0;
+  display: flex;
+  padding-top: 1px;
+  width: 287px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .polygon-pro-long {
+  margin-bottom: 12.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #171938;
+}
+.landing-page .container-3 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #E98015;
+}
+.landing-page .container-16 {
+  box-shadow: 5px 6px 13px -3px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 217.1px 0 22.2px 0;
+  width: 287px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .product-41 {
+  background: url('../assets/images/product_41.png') 50% / cover no-repeat;
+  width: 109px;
+  height: 150.8px;
+}
+.landing-page .container-21 {
+  border-radius: 8px;
+  background: #F6FAFD;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  display: flex;
+  height: 192px;
+}
+.landing-page .item-8 {
+  position: relative;
+  margin-bottom: 0px;
+  display: flex;
+  padding-top: 2px;
+  width: 287px;
+  box-sizing: border-box;
+}
+.landing-page .container-17 {
+  margin-bottom: 36.5px;
+  display: flex;
+  flex-direction: row;
+  width: 1240px;
+  box-sizing: border-box;
+}
+.landing-page .product-112 {
+  background: url('../assets/images/product_11.png');
+  width: 191px;
+  height: 87px;
+}
+.landing-page .component-12 {
+  display: flex;
+  width: 287px;
+  height: 192px;
+  box-sizing: border-box;
+}
+.landing-page .container {
+  border-radius: 8px;
+  background: #F6FAFD;
+  position: relative;
+  margin-bottom: 22.1px;
+  display: flex;
+  padding: 57.4px 12px 47.6px 0;
+  width: 287px;
+  height: 192px;
+  box-sizing: border-box;
+}
+.landing-page .xzone-eron-2 {
+  margin: 0 1px 12.2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #171938;
+}
+.landing-page .container-9 {
+  margin-left: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #E98015;
+}
+.landing-page .item-9 {
+  box-shadow: 5px 6px 13px -3px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 3px 0 22.2px 0;
+  width: 287px;
+  box-sizing: border-box;
+}
+.landing-page .product-113 {
+  background: url('../assets/images/product_11.png');
+  width: 191px;
+  height: 87px;
+}
+.landing-page .component-13 {
+  display: flex;
+  width: 287px;
+  height: 192px;
+  box-sizing: border-box;
+}
+.landing-page .container-7 {
+  border-radius: 8px;
+  background: #F6FAFD;
+  position: relative;
+  margin-bottom: 22.1px;
+  display: flex;
+  padding: 57.4px 12px 47.6px 0;
+  width: 287px;
+  height: 192px;
+  box-sizing: border-box;
+}
+.landing-page .xzone-eron-3 {
+  margin: 0 1px 12.2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #171938;
+}
+.landing-page .container-10 {
+  margin-left: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #E98015;
+}
+.landing-page .item-10 {
+  box-shadow: 5px 6px 13px -3px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 3px 0 22.2px 0;
+  width: 287px;
+  box-sizing: border-box;
+}
+.landing-page .product-114 {
+  background: url('../assets/images/product_11.png');
+  width: 191px;
+  height: 87px;
+}
+.landing-page .component-14 {
+  display: flex;
+  width: 287px;
+  height: 192px;
+  box-sizing: border-box;
+}
+.landing-page .container-23 {
+  border-radius: 8px;
+  background: #F6FAFD;
+  position: relative;
+  margin-bottom: 22.1px;
+  display: flex;
+  padding: 57.4px 12px 47.6px 0;
+  width: 287px;
+  height: 192px;
+  box-sizing: border-box;
+}
+.landing-page .xzone-eron-4 {
+  margin: 0 1px 12.2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #171938;
+}
+.landing-page .container-11 {
+  margin-left: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #E98015;
+}
+.landing-page .item-11 {
+  box-shadow: 5px 6px 13px -3px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 31px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 3px 0 22.2px 0;
+  width: 287px;
+  box-sizing: border-box;
+}
+.landing-page .product-111 {
+  background: url('../assets/images/product_11.png');
+  width: 191px;
+  height: 87px;
+}
+.landing-page .component-1 {
+  display: flex;
+  width: 287px;
+  height: 192px;
+  box-sizing: border-box;
+}
+.landing-page .container-15 {
+  border-radius: 8px;
+  background: #F6FAFD;
+  position: relative;
+  margin-bottom: 22.1px;
+  display: flex;
+  padding: 57.4px 12px 47.6px 0;
+  width: 287px;
+  height: 192px;
+  box-sizing: border-box;
+}
+.landing-page .xzone-eron {
+  margin: 0 1px 12.2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #171938;
+}
+.landing-page .container {
+  margin-left: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.1;
+  color: #E98015;
+}
+.landing-page .item-12 {
+  box-shadow: 5px 6px 13px -3px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 3px 0 22.2px 0;
+  width: 287px;
+  box-sizing: border-box;
+}
+.landing-page .container-10 {
+  margin-left: 1px;
+  display: flex;
+  flex-direction: row;
+  width: 1239px;
+  box-sizing: border-box;
+}
+.landing-page .popular-products {
+  background: rgba(23, 25, 56, 0.06);
+  position: relative;
+  margin: 0 0 77px 6px;
+  display: flex;
+  flex-direction: column;
+  padding: 50.3px 100px 36.9px 100px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.landing-page .rectangle-2 {
+  border-radius: 15px;
+  border: 2px solid #E5E5E5;
+  width: 356.1px;
+  height: 486.8px;
+}
+.landing-page .frame {
+  border-radius: 15px;
+  position: relative;
+  display: flex;
+  width: 356.1px;
+  height: 486.8px;
+  box-sizing: border-box;
+}
+.landing-page .image-3 {
+  border-radius: 100px 15px 15px 15px;
+  background: url('../assets/images/image_3.png') 50% / cover no-repeat;
+  position: absolute;
+  left: -56px;
+  top: -80.1px;
+  width: 457px;
+  height: 581px;
+}
+.landing-page .review-1 {
+  background: url('../assets/images/review_1.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  top: -220.1px;
+  right: -89px;
+  width: 543px;
+  height: 824px;
+}
+.landing-page .picture {
+  border-radius: 100px 15px 15px 15px;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 366px;
+  height: 501.9px;
+}
+.landing-page .foto-keluarga {
+  position: relative;
+  margin-right: 57.8px;
+  width: 405px;
+  height: 541px;
+  box-sizing: border-box;
+}
+.landing-page .star-1 {
+  border-radius: 1px;
+  width: 34.5px;
+  height: 34.5px;
+}
+.landing-page .ic-star {
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.landing-page .star-11 {
+  border-radius: 1px;
+  width: 34.5px;
+  height: 34.5px;
+}
+.landing-page .ic-star-1 {
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.landing-page .star-12 {
+  border-radius: 1px;
+  width: 34.5px;
+  height: 34.5px;
+}
+.landing-page .ic-star-2 {
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.landing-page .star-13 {
+  border-radius: 1px;
+  width: 34.5px;
+  height: 34.5px;
+}
+.landing-page .ic-star-3 {
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.landing-page .star-14 {
+  border-radius: 1px;
+  width: 34.5px;
+  height: 34.5px;
+}
+.landing-page .ic-star-4 {
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.landing-page .group-1 {
+  margin-bottom: 8.8px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  column-gap: 1.5px;
+  width: 180px;
+  box-sizing: border-box;
+}
+.landing-page .bikestore-goes-to-campus-xuir {
+  margin: 0 0 8px 3.3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 32px;
+  color: #152C5B;
+}
+.landing-page .johan-programmer {
+  margin: 0 2.3px 50px 2.3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 300;
+  font-size: 18px;
+  color: #B0B0B0;
+}
+.landing-page .read-their-story {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.7;
+  color: #030303;
+}
+.landing-page .btn-primary {
+  box-shadow: 0px 8px 15px 0px rgba(50, 82, 223, 0.3);
+  border-radius: 4px;
+  background: #FCBB3A;
+  position: relative;
+  margin: 0 3.3px;
+  display: flex;
+  align-self: flex-start;
+  padding: 9px 0 10px 1px;
+  width: 210px;
+  box-sizing: border-box;
+}
+.landing-page .group-2 {
+  margin: 171.8px 0 95px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.landing-page .happy-story {
+  margin: 0 99px 23px 99px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .youtubr-1 {
+  background: url('../assets/images/youtubr_1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 269px;
+  top: 90px;
+  width: 55px;
+  height: 45px;
+}
+.landing-page .rectangle-11 {
+  background: #E5E5E5;
+  width: 1440px;
+  height: 0.9px;
+}
+.landing-page .divider {
+  margin-bottom: 38.7px;
+  display: flex;
+  width: 1440px;
+  height: 0.9px;
+  box-sizing: border-box;
+}
+.landing-page .bikestore {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 36px;
+  color: #000000;
+}
+.landing-page .fb-1 {
+  background: url('../assets/images/fb_1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 67px;
+  bottom: 0px;
+  width: 51px;
+  height: 51.3px;
+}
+.landing-page .ig-1 {
+  background: url('../assets/images/ig_1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  bottom: 6.3px;
+  width: 54px;
+  height: 38.7px;
+}
+.landing-page .container-13 {
+  position: relative;
+  margin-bottom: 22.5px;
+  display: flex;
+  padding-left: 7px;
+  height: 98.1px;
+  box-sizing: border-box;
+}
+.landing-page .address {
+  margin-bottom: 15.3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 18px;
+  color: #152C5B;
+}
+.landing-page .jl-kaharuddin-nasution-no-01-kecamatan-marpoyan-damai-pekanbaru-riau-2828208121234578 {
+  margin-right: 0px;
+  text-align: right;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 300;
+  font-size: 16px;
+  color: #B0B0B0;
+}
+.landing-page .group-5 {
+  margin-top: 6.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.landing-page .container-8 {
+  margin: 0 105px 0 131px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1204px;
+  box-sizing: border-box;
+}
+.landing-page .container-18 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.landing-page .navigation {
+  background: #F5F4F5;
+  position: relative;
+  display: flex;
+  padding-bottom: 118.8px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.landing-page .copyright-bikestore-all-rights-reserved {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.copyright-bikestore-all-rights-reserved-sub8 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.copyright-bikestore-all-rights-reserved-sub7 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.333;
+  color: #FCBB3A;
+}
+.copyright-bikestore-all-rights-reserved {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.333;
+}
+.landing-page .footer {
+  background: #171938;
+  position: relative;
+  display: flex;
+  padding: 32px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.landing-page {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  box-sizing: border-box;
+}
